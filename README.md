@@ -24,7 +24,7 @@ Perfil pessoal do GitHub
 <a href="https://github.com/JeffersonBragaa">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/jeffersonvinicius-1b352a264/">
+<a href="https://www.linkedin.com/in/jefferson-vinicius-1b352a264">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="https://www.instagram.com/jefferson.braga_/">
@@ -482,7 +482,7 @@ Estudo ligado à preparação para a **Maratona de Programação** (Beecrowd, OB
 <a href="https://github.com/JeffersonBragaa">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/jefferson-vinicius-1b352a264">
+<a href="htpps://www.linkedin.com/in/jefferson-vinicius-1b352a264">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="https://www.instagram.com/jefferson.braga_/">
