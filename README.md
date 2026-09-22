@@ -27,7 +27,7 @@ Perfil pessoal do GitHub
 <a href="https://www.linkedin.com/in/jeffersonvinicius-1b352a264/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
+<a href="https://www.instagram.com/jefferson.braga_/">
   <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
@@ -83,7 +83,7 @@ Minha trajetória também passa por experiência na área administrativa — con
 
 ### ⚙️ Backend
 
-- Java + Spring Boot
+- Java + Spring Boot / Node.JS + Express.JS
 - APIs REST
 - SQL / PostgreSQL
 - Docker
@@ -196,7 +196,7 @@ Não é o foco atual, mas faz parte da minha formação:
 
 # 🧪 QA & Engenharia de Software
 
-<details>
+<details open>
 <summary><b>🔍 Clique para expandir — o que faz parte da minha prática atual</b></summary>
 
 <br>
@@ -271,7 +271,7 @@ Aplicação full-stack usada como laboratório de desenvolvimento web, autentica
 - Middleware
 - Perfil de usuário + análise via IA
 
-🔗 **[Ver projeto](LINK_DO_REPOSITORIO_FILMES)**
+🔗 **[Ver projeto](https://github.com/JeffersonBragaa/projeto-final)**
 
 </td>
 
@@ -287,7 +287,7 @@ Projeto para entender na prática como estruturar uma aplicação separando fron
 **Objetivo**
 Ir além do CRUD: comunicação entre serviços, persistência de dados, variáveis de ambiente e estrutura de aplicações full-stack.
 
-🔗 **[Ver projeto](LINK_DO_REPOSITORIO_DOCKER)**
+🔗 **[Ver projeto](https://github.com/JeffersonBragaa/sistema-dockerizado)**
 
 </td>
 
@@ -309,7 +309,7 @@ Aplicação web voltada para pequenos negócios, com foco em gerenciamento de pr
 - Controle de estoque
 - Interface voltada para pequenos empreendedores
 
-🔗 **[Ver projeto](LINK_DO_REPOSITORIO_ESTOQUE)**
+🔗 **[Ver projeto](https://github.com/JeffersonBragaa/Controle-de-estoque)**
 
 </td>
 
@@ -324,7 +324,7 @@ Repositório com estudos e implementações desenvolvidos ao longo da formação
 
 Representa parte importante da evolução com **Python e fundamentos de programação**.
 
-🔗 **[Ver repositório](LINK_DO_REPOSITORIO_ESTUDOS)**
+🔗 **[Ver repositório](https://github.com/JeffersonBragaa/Programa-o-Orientada-a-Objetos-POO-)**
 
 </td>
 
@@ -341,7 +341,7 @@ Projeto experimental para estruturar conhecimento técnico de **QA e regras de n
 
 `Markdown` `JSON` `IA` `RAG` `QA`
 
-🔗 **[Ver projeto](LINK_DO_REPOSITORIO_QA)**
+🔗 **[Projeto em Andamento](LINK_DO_REPOSITORIO_QA)**
 
 </td>
 
@@ -353,7 +353,7 @@ Laboratório pessoal para estudar como **IA pode participar de processos reais d
 
 `AI Agents` `Knowledge Base` `QA Automation` `Prompt Engineering` `RAG`
 
-🔗 **[Ver projeto](LINK_DO_REPOSITORIO_IA)**
+🔗 **[Projeto em Andamento](LINK_DO_REPOSITORIO_IA)**
 
 </td>
 
@@ -389,7 +389,7 @@ Laboratório pessoal para estudar como **IA pode participar de processos reais d
 
 ### ☕ Backend & Engenharia
 
-- Java, POO, Spring Boot
+- Java, POO, Spring Boot, Node.JS, Express.JS, Next.JS
 - APIs REST, HTTP
 - Arquitetura de aplicações
 - Docker, Docker Compose
@@ -465,18 +465,6 @@ Estudo ligado à preparação para a **Maratona de Programação** (Beecrowd, OB
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonBragaa&show_icons=true&include_all_commits=true&count_private=false&theme=transparent&hide_border=true&title_color=FF4F9A&icon_color=FF4F9A&text_color=AAAAAA&bg_color=00000000" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonBragaa&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=FF4F9A&text_color=AAAAAA&bg_color=00000000" />
-
-</div>
-
----
-
 # 🔥 Streak
 
 <div align="center">
@@ -484,87 +472,6 @@ Estudo ligado à preparação para a **Maratona de Programação** (Beecrowd, OB
 <img src="https://streak-stats.demolab.com?user=JeffersonBragaa&theme=transparent&hide_border=true&ring=FF4F9A&fire=FF4F9A&currStreakLabel=FF4F9A&sideLabels=AAAAAA&dates=777777" />
 
 </div>
-
----
-
-# 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffersonBragaa&bg_color=00000000&color=AAAAAA&line=FF4F9A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeffersonBragaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffersonBragaa/JeffersonBragaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffersonBragaa/JeffersonBragaa/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JeffersonBragaa/JeffersonBragaa/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<details>
-<summary><b>⚙️ GitHub Action usada para gerar a Snake</b></summary>
-
-<br>
-
-Crie o arquivo `.github/workflows/snake.yml` no repositório especial `JeffersonBragaa/JeffersonBragaa`:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish generated files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
@@ -578,7 +485,7 @@ jobs:
 <a href="https://www.linkedin.com/in/jeffersonvinicius-1b352a264/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
+<a href="https://www.instagram.com/jefferson.braga_/">
   <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
