@@ -24,7 +24,7 @@ Perfil pessoal do GitHub
 <a href="https://github.com/JeffersonBragaa">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/jefferson-vinicius-1b352a264/">
+<a href="https://www.linkedin.com/in/jeffersonvinicius-1b352a264/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="https://www.instagram.com/SEU_INSTAGRAM/">
@@ -54,6 +54,8 @@ No trabalho, tenho contato direto com o produto e com os problemas reais dos usu
 Hoje meu foco principal é **QA**: testes funcionais, exploratórios e de API, documentação de regras de negócio, casos de teste, evidências e organização de conhecimento técnico. Em paralelo, sigo evoluindo em **Java + Spring Boot** para backend, mantendo prática em **Angular/React/Next.js** no front-end, e tenho um interesse forte em aproximar **IA + QA + desenvolvimento**, criando ferramentas que ajudem a entender sistemas, organizar conhecimento e testar melhor.
 
 Fora do foco principal, também construí base acadêmica em disciplinas como **IHC, Sistemas Operacionais, Arquitetura de Computadores e Métodos Matemáticos para Análise de Dados** — não são minha prioridade profissional hoje, mas fazem parte da minha formação e da minha curiosidade técnica.
+
+Minha trajetória também passa por experiência na área administrativa — contratos, processos e documentação — o que me deu uma visão orientada a eficiência operacional e me ajuda a analisar sistemas não só do lado técnico, mas também do lado do negócio.
 
 > **Construir, testar, quebrar e entender. É assim que eu gosto de aprender software.**
 
@@ -573,7 +575,7 @@ jobs:
 <a href="https://github.com/JeffersonBragaa">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/jefferson-vinicius-1b352a264/">
+<a href="https://www.linkedin.com/in/jeffersonvinicius-1b352a264/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="https://www.instagram.com/SEU_INSTAGRAM/">
